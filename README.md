@@ -8,15 +8,23 @@
 ---
 
 ### 🚀 Sobre Mim
-Sou um Desenvolvedor Python focado em **Automação de Processos** e **Análise de Dados**. Minha especialidade é transformar tarefas manuais complexas (especialmente em E-commerce/Mercado Livre) em aplicações web inteligentes, lucrativas e escaláveis.
+Sou um Desenvolvedor **Full-Stack & Python** focado em **Automação de Processos**, **Análise de Dados** e **SaaS**. Minha especialidade é transformar tarefas complexas (especialmente em E-commerce/Mercado Livre) e processos educacionais em aplicações web inteligentes, lucrativas e escaláveis, unindo a robustez do Python com a modernidade do Next.js.
 
-* 🔭 Atualmente trabalhando em: **Sistemas de Auditoria Financeira & Agentes de IA**
-* 💼 Disponível para: **Projetos Freelance e Consultoria**
-* 🌱 Focando estudos em: **LLMs (Google Gemini), Playwright e Engenharia de Dados**
+* 🔭 Atualmente trabalhando em: **Fluent Academy (Plataforma LMS com IA) & Sistemas de Auditoria Financeira**
+* 💼 Disponível para: **Projetos Freelance, Desenvolvimento SaaS e Consultoria**
+* 🌱 Focando estudos em: **Arquitetura Next.js 14, Supabase Realtime, Agentes de IA (Gemini) e UX/UI Design**
 
 ---
 
 ### 🔥 Últimas Atualizações (Changelog)
+
+**🆕 Fluent Academy (EdTech Platform)**
+Um ecossistema completo de ensino de idiomas focado em imersão e tecnologia.
+- **Arquitetura Moderna:** Desenvolvido em **Next.js 14 (App Router)**, **TypeScript** e **Tailwind CSS** com design system "Clean UI".
+- **AI-Powered:** Integração profunda com **Google Gemini** para atuar como "Professor IA", realizando correções contextuais, análise de nível (CEFR) e feedback gramatical em tempo real.
+- **Backend Serverless:** Utilização do **Supabase** para Autenticação, Banco de Dados (PostgreSQL) e funcionalidades Realtime.
+- **Gamificação:** Sistema de XP, Streaks e Badges para engajamento do aluno.
+
 **Auditoria Financeira v2.0 (Stable Release)**
 Uma reformulação completa do sistema de auditoria para E-commerce.
 - **Segurança:** Implementação de sistema de Login/Logout seguro (`streamlit-authenticator`).
@@ -27,7 +35,17 @@ Uma reformulação completa do sistema de auditoria para E-commerce.
 ---
 
 ### 🛠️ Tech Stack
-**Linguagens e Frameworks:**
+
+**Web Full-Stack & Interface:**
+<div style="display: inline_block">
+  <img align="center" alt="NextJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Tailwind" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
+  <img align="center" alt="Supabase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg">
+</div>
+
+**Data Science & Automação:**
 <div style="display: inline_block">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Pandas" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
@@ -53,9 +71,10 @@ Uma reformulação completa do sistema de auditoria para E-commerce.
 | **📦 Estoque Full** | Dashboard BI para gestão de estoque Fulfillment com simulação de reposição. | [Ver App](https://estoque-full.streamlit.app/) |
 | **🌐 Portfólio Central** | Hub unificado das minhas aplicações e soluções. | [Ver App](https://douglas-onorio.streamlit.app/) |
 
-### 🔒 Soluções Corporativas (Private)
+### 🔒 Soluções Corporativas & Em Desenvolvimento (Private)
 *Desenvolvo também soluções internas de alta complexidade:*
 
+* **🎓 Fluent Academy (LMS):** Plataforma educacional completa com Next.js, área do aluno gamificada, dashboard administrativo e professor IA integrado.
 * **🕵️ Monitor de Vendas Real-Time:** Scraper avançado com *Playwright* que monitora métricas do ML ao vivo, extraindo dados via JSON Injection.
 * **🤖 Cérebro IA (SAC):** Automação de atendimento usando *Google Gemini API* para responder perguntas contextuais de 8 lojas simultaneamente.
 * **🕷️ Curva A Scraper:** Aplicação Desktop para monitoramento de preços da concorrência com comportamento humanizado.

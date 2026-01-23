@@ -8,29 +8,33 @@
 ---
 
 ### 🚀 Sobre Mim
-Sou um Desenvolvedor **Full-Stack & Python** focado em **Automação de Processos**, **Análise de Dados** e **SaaS**. Minha especialidade é transformar tarefas complexas (especialmente em E-commerce/Mercado Livre) e processos educacionais em aplicações web inteligentes, lucrativas e escaláveis, unindo a robustez do Python com a modernidade do Next.js.
+Sou um Desenvolvedor **Full-Stack & Python** especializado em criar ecossistemas que unem **Finanças**, **E-commerce** e **Inteligência Artificial**. Meu foco atual é desenvolver aplicações SaaS robustas (Next.js) e automações inteligentes (Python/Gemini) que resolvem problemas reais de negócio.
 
-* 🔭 Atualmente trabalhando em: **Fluent Academy (Plataforma LMS com IA) & Sistemas de Auditoria Financeira**
-* 💼 Disponível para: **Projetos Freelance, Desenvolvimento SaaS e Consultoria**
-* 🌱 Focando estudos em: **Arquitetura Next.js 14, Supabase Realtime, Agentes de IA (Gemini) e UX/UI Design**
+* 🔭 Atualmente trabalhando em: **LIA (Personal Finance AI) & SBS (Sistema Corporativo)**
+* 💼 Disponível para: **Desenvolvimento de SaaS, Automação com LLMs e Dashboards Financeiros**
+* 🌱 Focando estudos em: **Agentes de IA Autônomos, Next.js App Router e Supabase Avançado**
 
 ---
 
 ### 🔥 Últimas Atualizações (Changelog)
 
-**🆕 Fluent Academy (EdTech Platform)**
-Um ecossistema completo de ensino de idiomas focado em imersão e tecnologia.
-- **Arquitetura Moderna:** Desenvolvido em **Next.js 14 (App Router)**, **TypeScript** e **Tailwind CSS** com design system "Clean UI".
-- **AI-Powered:** Integração profunda com **Google Gemini** para atuar como "Professor IA", realizando correções contextuais, análise de nível (CEFR) e feedback gramatical em tempo real.
-- **Backend Serverless:** Utilização do **Supabase** para Autenticação, Banco de Dados (PostgreSQL) e funcionalidades Realtime.
-- **Gamificação:** Sistema de XP, Streaks e Badges para engajamento do aluno.
+**🆕 LIA - Personal Finance AI (In Development)**
+Uma aplicação financeira de próxima geração com assistente pessoal integrado.
+- **Stack:** Next.js 14, TypeScript, Tailwind CSS e Supabase.
+- **IA Nativa:** Integração profunda com **Google Gemini** para atuar como consultor financeiro, categorizando gastos e sugerindo economias.
+- **Segurança:** Autenticação robusta e Row Level Security (RLS) via Supabase.
+- **UI/UX:** Design moderno focado em visualização de dados e usabilidade móvel.
 
-**Auditoria Financeira v2.0 (Stable Release)**
-Uma reformulação completa do sistema de auditoria para E-commerce.
-- **Segurança:** Implementação de sistema de Login/Logout seguro (`streamlit-authenticator`).
-- **Marketing:** Novo módulo de cálculo de **Ads & ACOS**, deduzindo custos de publicidade do lucro real.
-- **Integração:** Conexão bidirecional com **Google Sheets API** para gestão de custos em tempo real.
-- **Relatórios:** Exportação avançada para Excel (`xlsxwriter`) com formatação condicional, cores de alerta e fórmulas nativas.
+**🏢 SBS - Catálogo Corporativo & Admin**
+Sistema de gestão de catálogo e pedidos para ambiente B2B.
+- **Autenticação:** Sistema customizado de gestão de sessão e Cookies.
+- **Dashboard:** Painel administrativo para controle total de produtos e usuários.
+- **Performance:** Otimizado para SEO e carregamento rápido de grandes catálogos.
+
+**📊 Dashboard de Vendas & KPIs (Python)**
+Ferramentas analíticas para processamento de dados de E-commerce.
+- **Tech:** Python, Panel e HvPlot para visualizações interativas.
+- **Automação:** Scripts ETL que processam planilhas Excel complexas e geram insights de lucro real e ACOS.
 
 ---
 
@@ -67,17 +71,17 @@ Uma reformulação completa do sistema de auditoria para E-commerce.
 
 | Projeto | Descrição e Techs | Link |
 | :--- | :--- | :---: |
-| **💰 Auditoria ML v2.0** | Sistema SaaS para auditoria de vendas, cálculo de margem real, ACOS e rateio de Kits. | [Ver App](https://auditoria-financeira-mercadolivre.streamlit.app/) |
-| **📦 Estoque Full** | Dashboard BI para gestão de estoque Fulfillment com simulação de reposição. | [Ver App](https://estoque-full.streamlit.app/) |
-| **🌐 Portfólio Central** | Hub unificado das minhas aplicações e soluções. | [Ver App](https://douglas-onorio.streamlit.app/) |
+| **💰 Auditoria ML v2.0** | SaaS de auditoria financeira para Mercado Livre com cálculo de margem real. | [Ver App](https://auditoria-financeira-mercadolivre.streamlit.app/) |
+| **📦 Estoque Full** | Dashboard BI para gestão de estoque Fulfillment e reposição. | [Ver App](https://estoque-full.streamlit.app/) |
+| **🌐 Portfólio Central** | Hub unificado das minhas aplicações Streamlit. | [Ver App](https://douglas-onorio.streamlit.app/) |
 
-### 🔒 Soluções Corporativas & Em Desenvolvimento (Private)
-*Desenvolvo também soluções internas de alta complexidade:*
+### 🔒 Soluções Corporativas & Private Labs
+*Projetos desenvolvidos para uso interno ou experimentação avançada:*
 
-* **🎓 Fluent Academy (LMS):** Plataforma educacional completa com Next.js, área do aluno gamificada, dashboard administrativo e professor IA integrado.
-* **🕵️ Monitor de Vendas Real-Time:** Scraper avançado com *Playwright* que monitora métricas do ML ao vivo, extraindo dados via JSON Injection.
-* **🤖 Cérebro IA (SAC):** Automação de atendimento usando *Google Gemini API* para responder perguntas contextuais de 8 lojas simultaneamente.
-* **🕷️ Curva A Scraper:** Aplicação Desktop para monitoramento de preços da concorrência com comportamento humanizado.
+* **🤖 Cérebro Gemini (SAC):** Automação Python que utiliza a API do Google Gemini para responder clientes de E-commerce de forma contextual e humanizada.
+* **🕷️ Spider Solitaire Bot:** Bot de automação desenvolvido em Python para execução lógica de jogos de cartas (Proof of Concept).
+* **🕵️ Monitor de Vendas Real-Time:** Scraper avançado com *Playwright* que monitora métricas via injeção de JSON.
+* **📉 Curva A Scraper:** Aplicação Desktop para inteligência de mercado e precificação dinâmica.
 
 ---
 

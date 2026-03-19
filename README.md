@@ -13,8 +13,6 @@ Sou um Desenvolvedor Full-Stack & Python especializado em arquitetar ecossistema
 
 🌱 Estudando: Sistemas Multi-Agentes, Next.js 15 Server Components e Otimização de Algoritmos de Busca.
 
-🎥 Conteúdo: Estrategista de SEO e criador no canal "O que o Povo Conta".
-
 🔥 Projetos de Destaque
 📦 Gestão Avançada Mercado Livre (Full-Stack)
 Hub centralizado para gestão de anúncios, estoque e precificação dinâmica.

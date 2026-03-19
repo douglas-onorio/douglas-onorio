@@ -10,7 +10,7 @@
 ### 🚀 Sobre Mim
 Sou um Desenvolvedor **Full-Stack & Python** especializado em arquitetar ecossistemas que unem **E-commerce de Alta Performance**, **Gestão Financeira** e **Inteligência Artificial**. Desenvolvo motores de dados e aplicações SaaS que transformam operações complexas (marketplaces, auditoria tributária, logística) em decisões estratégicas e automatizadas. 
 
-Atuo também na interseção entre tecnologia e criação de conteúdo orientado por SEO como estrategista e criador no canal **O que o Povo Conta**.
+Atuo também na interseção entre tecnologia e criação de conteúdo orientado por SEO.
 
 * 🔭 **Foco atual:** Smart Commerce Engine (Full API + BI para Mercado Livre) & LMS School (AI-Driven Education).
 * 💼 **Especialidade:** Arquiteturas Híbridas (FastAPI + Next.js), Automações Logísticas, Motores Tributários e Engenharia de Dados.

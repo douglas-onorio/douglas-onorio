@@ -20,6 +20,11 @@ Atuo também na interseção entre tecnologia e criação de conteúdo orientado
 
 ### 🔥 Projetos de Destaque
 
+**🛒 Catálogo Online (B2B API Ecosystem)**
+Plataforma corporativa e API segura para gestão do catálogo de produtos, roteamento de pedidos e controle de lojistas B2B.
+- **Inovação:** Integração assíncrona com **Bling ERP** e infraestrutura **Firebase Admin** para sincronização em tempo real de estoque, pedidos e autenticação.
+- **Segurança:** Implementação de Middlewares customizados para proteção de endpoints via API Keys e gestão de rotas segmentadas para operações de alta criticidade.
+
 **📦 Smart Commerce Engine (FastAPI + React)**
 Hub centralizado para gestão de anúncios, auditoria financeira e previsibilidade logística para contas de alto volume no Mercado Livre.
 - **Inovação:** Motor tributário blindado (cálculo de DIFAL com base dupla) e algoritmo de logística preditiva atualizado com a matriz dinâmica de frete (Políticas 2026).

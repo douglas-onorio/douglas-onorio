@@ -48,10 +48,10 @@ Backend & IA: Python (FastAPI, Flask, Streamlit), Google Gemini API, LangChain, 
 Data & Cloud: Supabase (PostgreSQL), SQLite, Docker, Google Cloud, Vercel.
 
 <div align="center">
-<a href="https://www.linkedin.com/in/douglas-onorio-584766173/" target="_blank">
+<a href="[https://www.linkedin.com/in/douglas-onorio-584766173/](https://www.linkedin.com/in/douglas-s-b8130837a/)" target="_blank">
 <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:douglas.onorio@gmail.com">
+<a href="mailto:dgls.snts@gmail.com">
 <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </div>

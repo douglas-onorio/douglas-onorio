@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Olá%2C+sou+Douglas+Onorio+%F0%9F%91%8B;Full-Stack+%26+Python+Developer;E-commerce+%7C+IA+%7C+Engenharia+de+Dados;Transformando+dados+em+decisões+estratégicas" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+sou+Douglas+Onorio+%F0%9F%91%8B;Full-Stack+%26+Python+Developer;E-commerce+%7C+IA+%7C+Engenharia+de+Dados;Transformando+dados+em+decis%C3%B5es+estrat%C3%A9gicas" alt="Typing SVG" />
 </div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=douglas-onorio&style=for-the-badge&color=58A6FF&labelColor=0d1117" alt="Profile Views" />
-  <a href="https://www.linkedin.com/in/douglas-s-b8130837a/" target="_blank">
+  <a href="https://www.linkedin.com/in/douglas-onorio/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:dgls.snts@gmail.com">
@@ -20,7 +20,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=douglas-onorio&theme=tokyonight&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=douglas-onorio&theme=tokyonight&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak" />
 </div>
 
 <br/>
@@ -37,8 +37,8 @@ Atuo na interseção entre engenharia de software, IA aplicada e criação de co
 
 | | |
 |---|---|
-| 🔭 **Foco atual** | Smart Commerce Engine (Full API + BI para Mercado Livre) & LMS School (AI-Driven Education) |
-| 💼 **Especialidade** | Arquiteturas Híbridas (FastAPI + Next.js), Automações Logísticas, Motores Tributários e Engenharia de Dados |
+| 🔭 **Foco atual** | Seller Fiscal (Plataforma de Inteligência Operacional para E-commerce) & LMS School (AI-Driven Education) |
+| 💼 **Especialidade** | Arquiteturas Híbridas (FastAPI + Next.js), Motores Tributários, Automações Logísticas e Engenharia de Dados |
 | 🌱 **Estudando** | Sistemas Multi-Agentes (LangGraph), Next.js 15 Server Components e Otimização de Algoritmos de Busca |
 | 🎯 **Objetivo** | Construir produtos que escalam com inteligência e automatizam decisões de alto impacto |
 
@@ -79,6 +79,21 @@ Atuo na interseção entre engenharia de software, IA aplicada e criação de co
 <table>
   <tr>
     <td width="50%">
+      <h3>🧾 Seller Fiscal — Inteligência Operacional para E-commerce</h3>
+      <p>Plataforma SaaS que resolve o que ERPs e planilhas nunca resolveram: dar ao vendedor brasileiro visibilidade real sobre margem, tributos e estoque.</p>
+      <ul>
+        <li><strong>Motor Fiscal:</strong> DIFAL dinâmico por UF, FCP, Base Dupla, Monofásico, Simples Nacional, Lucro Presumido e Real — DRE campo a campo por venda.</li>
+        <li><strong>Inteligência:</strong> Health Score (0–100), Radar de Performance, Heatmap dia×hora, Matriz BCG automática e Mapa de Vendas por UF do Brasil.</li>
+        <li><strong>Diferenciais:</strong> Explosão de kits/combos, Curva ABC, simulador de precificação com memória de cálculo e sugestão de reabastecimento por SKU.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%">
       <h3>🛒 Catálogo Online (B2B API Ecosystem)</h3>
       <p>Plataforma corporativa e API segura para gestão de catálogo de produtos, roteamento de pedidos e controle de lojistas B2B.</p>
       <ul>
@@ -89,19 +104,6 @@ Atuo na interseção entre engenharia de software, IA aplicada e criação de co
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%">
-      <h3>📦 Smart Commerce Engine (FastAPI + React)</h3>
-      <p>Hub centralizado para gestão de anúncios, auditoria financeira e previsibilidade logística para contas de alto volume no Mercado Livre.</p>
-      <ul>
-        <li><strong>Inovação:</strong> Motor tributário blindado (DIFAL com base dupla) e algoritmo de logística preditiva com matriz dinâmica de frete — Políticas 2026.</li>
-        <li><strong>Impacto:</strong> Substituição de VBA legado por Python de alta performance, cruzando custos, impostos e taxas em frações de segundo.</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
       </p>
     </td>
   </tr>
